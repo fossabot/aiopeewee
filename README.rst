@@ -1,3 +1,5 @@
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fkszucs%2Faiopeewee.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fkszucs%2Faiopeewee?ref=badge_shield)
+
 |Build Status| |Gitential Code Volume| |Gitential Coding Hours| |Gitential Efficiency|
 
 .. |Gitential Code Volume| image:: https://api.gitential.com/accounts/6/projects/122/badges/code-volume.svg
@@ -164,3 +166,7 @@ Converting to dict requires the asyncified version of `model_to_dict`
 
 .. |Build Status| image:: http://drone.lensa.com:8000/api/badges/kszucs/aiopeewee/status.svg
    :target: http://drone.lensa.com:8000/kszucs/pandahouse
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fkszucs%2Faiopeewee.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fkszucs%2Faiopeewee?ref=badge_large)
